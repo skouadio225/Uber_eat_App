@@ -3,6 +3,8 @@
 <template>
   <div id="app">
     <RestaurantCard/>
+    <RestaurantCard/>
+    <RestaurantCard/>
   </div>
 </template>
 
