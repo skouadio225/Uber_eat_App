@@ -25,7 +25,7 @@
 <!-- ------------------ Script / Js ou Ts ------------------ -->
 <script>
 export default {
-
+  name : "RestaurantCard",
 }
 </script>
 
